@@ -1,0 +1,63 @@
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\bin\Debug\atestat.mdf
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\bin\Debug\atestat_log.ldf
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csprojAssemblyReference.cache
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\Biblioteca Lexi copie la copie\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\atestat.mdf
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\atestat_log.ldf
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csprojAssemblyReference.cache
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\atestat.mdf
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\atestat_log.ldf
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.AssemblyReference.cache
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.SuggestedBindingRedirects.cache
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+D:\Alexandra\SCOALA\atestat\varianta finala\Biblioteca Lexi copie la copie VARIANTA FINALĂ\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
